@@ -50,8 +50,4 @@ To view and interact with the visualizations:
 
 4. Filters are enabled across all charts except Task 4 and Task 5.
 
-## 🌐 Tableau Public
 
-You must upload your final dashboard to [Tableau Public](https://public.tableau.com/) to share and discuss your results.
-
-Feel free to customize the dashboard aesthetics and layout to reflect your personal style.
