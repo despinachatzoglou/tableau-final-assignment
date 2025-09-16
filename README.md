@@ -1,6 +1,7 @@
 # Tableau Final Assignment
 
-This repository contains the final assignment for the Tableau course. The goal of this project is to analyze sales and profit data using various types of visualizations in Tableau.
+This repository contains the final assignment for the Tableau course. The goal of this project is to analyze sales and profit data from USA
+using various types of visualizations in Tableau.
 
 ## 📁 Files
 
